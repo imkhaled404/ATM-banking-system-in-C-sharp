@@ -1,0 +1,7 @@
+H:\C# pra\ATMpra\ATMpra\bin\Debug\ATMpra.exe.config
+H:\C# pra\ATMpra\ATMpra\bin\Debug\ATMpra.exe
+H:\C# pra\ATMpra\ATMpra\bin\Debug\ATMpra.pdb
+H:\C# pra\ATMpra\ATMpra\obj\Debug\ATMpra.csprojAssemblyReference.cache
+H:\C# pra\ATMpra\ATMpra\obj\Debug\ATMpra.csproj.CoreCompileInputs.cache
+H:\C# pra\ATMpra\ATMpra\obj\Debug\ATMpra.exe
+H:\C# pra\ATMpra\ATMpra\obj\Debug\ATMpra.pdb
